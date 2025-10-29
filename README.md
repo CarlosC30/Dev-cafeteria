@@ -22,5 +22,5 @@ GPTMaker	Inteligência artificial para o chat
 
 Clone o projeto:
 
-git clone https://github.com/CarlosC30/borges-cafe.git
+git clone https://github.com/CarlosC30/Dev-cafeteria
 
